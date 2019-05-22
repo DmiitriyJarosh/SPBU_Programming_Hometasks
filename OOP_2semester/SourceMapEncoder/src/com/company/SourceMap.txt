@@ -1,0 +1,4 @@
+"file": "ToBinary.js",
+"names": ["a = 10", "b = 0", "i = 1", "while", "(a > 0)", "b += (a % 2) * i", "i *= 10", "a = a / 2", "cout << b", "{", "}"],
+"sources": ["ToBinary.cpp"],
+"mappings": "SACKA, QAEKC, OAGKC; KAICC, MAIMC; KAKCK; SAMIJ; SAOIC; SAQIC; KASCG; KAUCF;"

@@ -1,0 +1,12 @@
+For file: ToBinary.js
+Word: 'a = 10' in line 1 Colomn 9 from 'ToBinary.cpp'  ->   Line 1 Colomn 5
+Word: 'b = 0' in line 1 Colomn 17 from 'ToBinary.cpp'  ->   Line 2 Colomn 5
+Word: 'i = 1' in line 1 Colomn 24 from 'ToBinary.cpp'  ->   Line 3 Colomn 5
+Word: 'while' in line 2 Colomn 5 from 'ToBinary.cpp'  ->   Line 4 Colomn 1
+Word: '(a > 0)' in line 2 Colomn 11 from 'ToBinary.cpp'  ->   Line 4 Colomn 7
+Word: '{' in line 3 Colomn 5 from 'ToBinary.cpp'  ->   Line 5 Colomn 1
+Word: 'b += (a % 2) * i' in line 4 Colomn 9 from 'ToBinary.cpp'  ->   Line 6 Colomn 4
+Word: 'i *= 10' in line 5 Colomn 9 from 'ToBinary.cpp'  ->   Line 7 Colomn 4
+Word: 'a = a / 2' in line 6 Colomn 9 from 'ToBinary.cpp'  ->   Line 8 Colomn 4
+Word: '}' in line 7 Colomn 5 from 'ToBinary.cpp'  ->   Line 9 Colomn 1
+Word: 'cout << b' in line 8 Colomn 5 from 'ToBinary.cpp'  ->   Line 10 Colomn 1
