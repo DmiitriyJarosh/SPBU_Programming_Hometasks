@@ -1,0 +1,1 @@
+Tasks from mathlogic course. The task of 'sequent_calculus' was to find and draw tree of sequential conclusion of formula. The task of Sudoku was to solve sudoku using SATSolver-based algorithm.
