@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="commons-cli-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-codec-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/daemon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/daemonmanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hybdev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/loader1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/loader2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/log4j-1.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mpi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mpiExp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mpj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mpjbuf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mpjdev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mxdev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/niodev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/runtimecommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/smpdev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/starter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xdev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1 @@
+Tasks from course of parallel programming. Some of tasks have results of jmh benchmark testing (it was actively used during this course). Tasks which are named 'exercise' were taken from this article http://www.toves.org/books/distalg/distalg.pdf
