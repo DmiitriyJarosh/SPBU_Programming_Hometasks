@@ -1,0 +1,1 @@
+Tasks from functional programming course. The task of 'delimccEvaluator' can be found in the folder with this task. The task for 'LambdaEvaluatorWithReduxCounter' was to create simple evaluator of lambdas and count amount of reduxes during their evaluation.
